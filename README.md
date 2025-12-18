@@ -1,3 +1,5 @@
+![CI](https://github.com/bhava-tech-hub/cicd-github-actions/actions/workflows/ci.yml/badge.svg)
+
 # CI/CD with GitHub Actions
 
 This project demonstrates a simple CI/CD pipeline using
