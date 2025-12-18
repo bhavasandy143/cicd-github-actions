@@ -1,4 +1,4 @@
-![CI](https://github.com/bhava-tech-hub/cicd-github-actions/actions/workflows/ci.yml/badge.svg)
+![CI Pipeline](https://github.com/bhava-tech-hub/cicd-github-actions/actions/workflows/ci.yml/badge.svg?branch=main)
 
 # CI/CD with GitHub Actions
 
